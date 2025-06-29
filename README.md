@@ -6,7 +6,7 @@ It's a part of my frontend development journey to practice DOM manipulation, eve
 ---
 ## 🚀 Live Demo
 
-🎮 [Click here to play the game](https://sarveshnatulkar.github.io/simon-says-game/)  
+🎮 [Click here to play the game](https://sarveshnatulkar.github.io/Simon-Says/)  
 💻 [View the source code on GitHub](https://github.com/Sarveshnatulkar/simon-says-game)
 
 ---
